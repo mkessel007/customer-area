@@ -127,6 +127,11 @@ feel free to fork the project and send us pull requests!
 
 == Changelog ==
 
+= 6.1.0 (2015/04/) =
+
+* New: events are now logged. We have implemented a few events (content viewed, file download, owner changed). Many more to come soon!
+* Fix: pagination is now filtered if there are too many ages to show
+
 = 6.0.0 (2015/03/10) =
 
 * New: a setup assistant for first time installation & about page to introduce new versions features
